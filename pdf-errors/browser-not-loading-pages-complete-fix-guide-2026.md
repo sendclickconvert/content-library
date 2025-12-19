@@ -1,7 +1,7 @@
 ---
 title: "Browser Not Loading Pages: Complete Fix Guide (2026)"
 category: PDF-Errors
-keywords: browser, safari, troubleshooting
+keywords: browser, troubleshooting, chrome, firefox
 published: 2025-12-19
 ---
 
@@ -304,6 +304,6 @@ Use the different browser test first — it immediately narrows down which categ
 ---
 
 **Categories:** PDF-Errors  
-**Keywords:** browser, safari, troubleshooting
+**Keywords:** browser, troubleshooting, chrome, firefox
 
 *Published on MrGrid.io - Your authoritative source for technical error codes and solutions.*
