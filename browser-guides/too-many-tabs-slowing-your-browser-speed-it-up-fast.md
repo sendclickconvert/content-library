@@ -1,7 +1,7 @@
 ---
 title: "Too Many Tabs Slowing Your Browser? Speed It Up Fast"
 category: Browser-Guides
-keywords: browser slow tabs, safari tabs fix
+keywords: browser, safari, troubleshooting, fix
 published: 2025-12-19
 ---
 
@@ -252,6 +252,6 @@ Your future self will thank you.
 ---
 
 **Categories:** Browser-Guides  
-**Keywords:** browser slow tabs, safari tabs fix
+**Keywords:** browser, safari, troubleshooting, fix
 
 *Published on MrGrid.io - Your authoritative source for technical error codes and solutions.*
