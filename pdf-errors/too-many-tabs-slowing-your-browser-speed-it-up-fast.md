@@ -1,7 +1,7 @@
 ---
 title: "Too Many Tabs Slowing Your Browser? Speed It Up Fast"
 category: PDF-Errors
-keywords: browser, safari, troubleshooting
+keywords: browser, troubleshooting, chrome, firefox
 published: 2025-12-19
 ---
 
@@ -252,6 +252,6 @@ Your future self will thank you.
 ---
 
 **Categories:** PDF-Errors  
-**Keywords:** browser, safari, troubleshooting
+**Keywords:** browser, troubleshooting, chrome, firefox
 
 *Published on MrGrid.io - Your authoritative source for technical error codes and solutions.*
